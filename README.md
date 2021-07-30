@@ -9,6 +9,8 @@ Run this code into your terminal:
 
 ## Approach:
 
-   We import englisttohindi modules.
-   We are creating an object of EngtoHindi() by passing the message.
-   we are using convert() methods for the translation.
+We import englisttohindi modules.
+   
+We are creating an object of EngtoHindi() by passing the message.
+   
+We are using convert() methods for the translation.
